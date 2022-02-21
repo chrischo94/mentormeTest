@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8db0fe7c.css",
+    "main.js": "/static/js/main.b2c1342b.js",
+    "static/media/stationarysigninlogo.jpg": "/static/media/stationarysigninlogo.83364c3c8c489f29363a.jpg",
+    "static/media/mentorsigninlogo.jpg": "/static/media/mentorsigninlogo.abd2591b49b4cd989549.jpg",
+    "static/media/homepage.jpg": "/static/media/homepage.95c3940f95589c2ea4fe.jpg",
+    "static/media/svg-3.svg": "/static/media/svg-3.548d2a45f9e05a42e65bacb0fd5c6bc0.svg",
+    "static/media/svg-2.svg": "/static/media/svg-2.6d5ddef24e8fbe96029ff1d35a4c8a8b.svg",
+    "static/media/svg-1.svg": "/static/media/svg-1.a1729962bf20617e86fe133553f86fe1.svg",
+    "index.html": "/index.html",
+    "main.8db0fe7c.css.map": "/static/css/main.8db0fe7c.css.map",
+    "main.b2c1342b.js.map": "/static/js/main.b2c1342b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db0fe7c.css",
+    "static/js/main.b2c1342b.js"
+  ]
+}
