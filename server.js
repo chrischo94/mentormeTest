@@ -38,7 +38,7 @@ if (process.env.NODE_ENV === "production") {
 
 app.use(apiRoutes);
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/userDB", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/mentorMeTestDB", {
   useNewUrlParser: true,
   
 });
